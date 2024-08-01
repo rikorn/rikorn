@@ -14,7 +14,7 @@
 <!--* ⚡ Fun fact **** -->
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rikorn&label=Profile%20views&color=0e75b6&style=flat" alt="rikorn" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rikorn&label=Profile+views&color=0e75b6&style=plastic" alt="rikorn" /> </p>
 
 ### 🛠️ Languages and Tools
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
@@ -25,7 +25,7 @@
 
 ### 🌐 Connect with me
 <a href="https://www.linkedin.com/in/rikard-örnberg-2109b310b/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn">
 </a>
 
 <!--
