@@ -24,7 +24,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
 
 ### 🌐 Connect with me
-<a href="https://www.linkedin.com/in/rikard-örnberg-2109b310b/" target="_blank">
+<a href="https://www.linkedin.com/in/rikard-örnberg-2109b310b/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn">
 </a>
 
