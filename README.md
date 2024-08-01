@@ -5,7 +5,7 @@
   <h3 align="center"></h3>
 </div>
 
-* 🔭 I’m currently developing **tools to enable students in their learning**
+* 🔭 Hi, I'm a passionate developer and I’m currently developing **tools to enable students in their learning** at [edugather](https://github.com/edugather). ![Avatar](https://github.com/edugather.png?size=70)
 
 * 🌱 - while improving my skills as a **full-stack developer**
 
