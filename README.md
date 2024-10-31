@@ -18,11 +18,12 @@
 
 ### 🛠️ Languages and Tools
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
+![JAVA](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FF5733?logo=javascript&logoColor=white&style=flat)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
-![JAVA](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396&style=flat)
+
 
 ### 🌐 Connect with me
 <a href="https://www.linkedin.com/in/rikard-örnberg-2109b310b/" target="_blank" rel="noopener noreferrer">
