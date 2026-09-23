@@ -9,7 +9,7 @@
 
 * - while improving my skills as a **full-stack developer**
 
-* How to reach me **rikard@oernberg.com**
+* How to reach me **rikard@ornberg.se**
 
 <!--* ⚡ Fun fact **** -->
 
